@@ -16,7 +16,7 @@
 
 ## Процес на форматиране
 1. `scrape_bible.py` - сваля текста от https://biblia.bg/
-2. `convert_to_html_with_tags.py` - създава добре форматиран HTML файлове, който може да се чете в браузър и е подготовка за създаване на mobi формата за четец
+2. `convert_to_html_with_tags.py` - създава добре форматиран HTML файл, който може да се чете в браузър и е подготовка за създаване на mobi формата за четец
 3. `Calibre` - добавям thml файла в Calibre и компилирам в mobi формат с lv1 TOC = `//h:h1` (както в тази инсртрукция https://manual.calibre-ebook.com/conversion.html#table-of-contents)
 
 
